@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name - PhD Student</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header class="sticky-header">
+    <nav>
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#qualifications">Qualifications</a></li>
+        <li><a href="#achievements">Achievements</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="content">
+    <section id="about">
+      <h1>About Me</h1>
+      <p>Hello, I am [Your Name], a dedicated and passionate PhD student in [Your Field]. I am enthusiastic about [Your Research Interests] and enjoy contributing to the academic community through my research and collaborations.</p>
+    </section>
+
+    <section id="qualifications">
+      <h1>Qualifications</h1>
+      <ul>
+        <li>PhD in [Your Field], [University Name], [Year]</li>
+        <li>Master's in [Your Field], [University Name], [Year]</li>
+        <li>Bachelor's in [Your Field], [University Name], [Year]</li>
+      </ul>
+    </section>
+
+    <section id="achievements">
+      <h1>Achievements</h1>
+      <ul>
+        <li>Published [Number] research papers in reputable journals</li>
+        <li>Presented at [Number] international conferences</li>
+        <li>Recipient of [Any Awards or Honors]</li>
+        <li>Contributed to [Any Research Projects or Collaborations]</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h1>Contact Me</h1>
+      <p>If you would like to get in touch, you can reach me at:</p>
+      <p>Email: [Your Email Address]</p>
+      <p>LinkedIn: [Your LinkedIn Profile URL]</p>
+      <p>Twitter: [Your Twitter Handle]</p>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+  
